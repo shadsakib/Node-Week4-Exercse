@@ -1,0 +1,15 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "Node week4 exercise",
+  "main": "test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shadman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
